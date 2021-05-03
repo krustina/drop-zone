@@ -21,7 +21,6 @@ h1, h2, p{
   line-height: 40px;
   text-align: center;
   letter-spacing: 0.15em;
-  margin-bottom: 0;
 }
 h1{
   font-weight: 900;
@@ -30,6 +29,7 @@ h1{
 h2{
   font-weight: 900;
   font-size: 14px; 
+  margin-bottom: 0;
 }
 h3, h4{
   color: #FFFFFF;
@@ -51,6 +51,7 @@ h4{
 p{
   font-weight: normal;
   font-size: 18px;
+  margin-bottom: 0;
 }
 
 /* LOGO / HEADER */

@@ -3,8 +3,8 @@ import { useState, useEffect } from 'react';
 
 function Countdown() {
     const [currentTime, setCurrentTime] = useState(new Date().getTime());
-
-    const endTime = new Date("May 18 2021 00:00:00").getTime();
+    const date = "05/04/2021"
+    const endTime = new Date(date + " 00:00:00").getTime();
 
     const difference = endTime - currentTime;
 
