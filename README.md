@@ -4,10 +4,22 @@ Diff technical interview question by Kristina Vannan
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-## Project Mockups
+## Project Mockups & Instructions
 
 ### Mockups
 https://www.figma.com/file/OGZEMBBrVIM3n2CdBYsdEK/Drop-Zone?node-id=0%3A1
+ 
+### Requirements for Assignment
+#### Option A
+1. The solution matches the mock ups.
+1. The countdown timer decrements in real time.
+1. The timer begins at 13 days, 8 hours, 12 mins and 5 seconds when the page loads.
+
+#### Option B
+1. The solution matches the mock ups.
+1. The countdown timer decrements in real time.
+1. The timer counts down to midnight to a configurable date.
+   1. Declare a `date` variable that can take a date of format `MM/DD/YYYY`.
 
 ## Installation
 
